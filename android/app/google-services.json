@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460876811950",
+    "project_id": "flutterauth-efc10",
+    "storage_bucket": "flutterauth-efc10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460876811950:android:54b2d733aa2e5e7382673f",
+        "android_client_info": {
+          "package_name": "com.example.khannasir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8rh7co5ClaZhkJ2xKRgaImbm7SABeU2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460876811950:android:60a8ccbb180e538182673f",
+        "android_client_info": {
+          "package_name": "com.example.signin_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8rh7co5ClaZhkJ2xKRgaImbm7SABeU2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
